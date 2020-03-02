@@ -1,8 +1,11 @@
 Class_id,Class_name
 
-1,Person
-2,Dog
-3,Cat
-4,Car
+0,person
+1,car
+2,truck
+3,motorbike
+4,bike
+5,stopsign
+6,yieldsign
 
 
